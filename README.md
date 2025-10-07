@@ -1,4 +1,5 @@
 # Hand Gesture-Controlled Robot with Gripper Expansion
+<img width="1205" height="838" alt="Screenshot 2025-10-05 171814" src="https://github.com/user-attachments/assets/db2f1da6-750c-4773-b2fa-2648402aeafa" />
 
 This is a gesture-controlled robot project using ESP32 and MPU6050 IMU, with a gripper expansion. The robot uses two ESP32 boards for transmitter and receiver communication and comes with STL files for the chassis.
 
@@ -37,5 +38,5 @@ This is a gesture-controlled robot project using ESP32 and MPU6050 IMU, with a g
 ## Author
 - Kalhara Jayasekara
 - Electrical and Electronic Engineering Undergraduate | University of Peradeniya
-<img width="1205" height="838" alt="Screenshot 2025-10-05 171814" src="https://github.com/user-attachments/assets/84e25f56-52a4-4196-a0d4-4c650abc629f" />
+
 
