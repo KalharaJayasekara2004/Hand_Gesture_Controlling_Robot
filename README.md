@@ -37,4 +37,5 @@ This is a gesture-controlled robot project using ESP32 and MPU6050 IMU, with a g
 ## Author
 - Kalhara Jayasekara
 - Electrical and Electronic Engineering Undergraduate | University of Peradeniya
+<img width="1205" height="838" alt="Screenshot 2025-10-05 171814" src="https://github.com/user-attachments/assets/84e25f56-52a4-4196-a0d4-4c650abc629f" />
 
